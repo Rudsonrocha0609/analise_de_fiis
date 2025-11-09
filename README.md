@@ -101,4 +101,4 @@ Gráficos aprimorados:
     Rudson Rocha
         - 💼 Coordenador do Laboratório de Tecnologia contra Lavagagem de Dinheiro - LABLD
         - 📊 Desenvolvimento de ferramentas de análise de dados financeiros e inteligência de dados
-        - 📧 [LinkedIn - https://br.linkedin.com/in/rudson-rocha-79b550300]
+        - 📧 [LinkedIn - www.linkedin.com/in/rudson-rocha-79b550300]
