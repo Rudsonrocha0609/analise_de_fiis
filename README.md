@@ -49,6 +49,7 @@ O notebook está dividido em **9 fases** para permitir uso modular:
 ### 💻 Via `pip`
 ```bash
 pip install --upgrade pandas numpy yfinance python-dateutil matplotlib XlsxWriter openpyxl lxml
+```
 
 ---
 
