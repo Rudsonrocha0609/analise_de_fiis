@@ -99,6 +99,6 @@ Gráficos aprimorados:
 ## 🧑‍💻 Autor
 
     Rudson Rocha
-    💼 Coodenador do Laboratório de Tecnologia contra Lavagagem de Dinheiro - LABLD
+    💼 Coordenador do Laboratório de Tecnologia contra Lavagagem de Dinheiro - LABLD
     📊 Desenvolvimento de ferramentas de análise de dados financeiros e inteligência de dados
     📧 [LinkedIn - https://br.linkedin.com/in/rudson-rocha-79b550300]
