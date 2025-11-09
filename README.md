@@ -50,8 +50,9 @@ O notebook está dividido em **9 fases** para permitir uso modular:
 ```bash
 pip install --upgrade pandas numpy yfinance python-dateutil matplotlib XlsxWriter openpyxl lxml
 
+---
 
-🚀 Uso
+## 🚀 Uso
 
 Abra o notebook (analisador_fii.ipynb) em seu ambiente preferido (Jupyter, VSCode ou Colab).
 
@@ -65,7 +66,7 @@ Execute as células na ordem (Fases 1 → 9).
 Veja a tabela com métricas e os gráficos gerados automaticamente.
 
 
-🧩 Funcionalidades extras
+## 🧩 Funcionalidades extras
 
 Parâmetro de controle:
 CONSIDERAR_ULTIMO_MES_CIVIL = True
@@ -84,7 +85,7 @@ Gráficos aprimorados:
     Sem linhas de grade para visual mais limpo
 
 
-🧰 Tecnologias utilizadas
+## 🧰 Tecnologias utilizadas
 
     Python
     Pandas
@@ -94,7 +95,7 @@ Gráficos aprimorados:
     dateutil
     XlsxWriter / OpenPyXL
 
-🧑‍💻 Autor
+## 🧑‍💻 Autor
 
     Rudson Rocha
     💼 Polícia Civil do Estado do Ceará — LABLD / DRA
